@@ -25,5 +25,4 @@ Atualmente, estudo **Java, Segurança da Informação, IA, Python e Git**. 🚀
 ## 📫 Onde me encontrar:
 [!https://www.instagram.com/franco.fnb/]
 
-## 📊 Estatísticas do GitHub:
-![Whiller's GitHub Stats](https://github-readme-stats.vercel.app/api?WhileTrueFrank&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhileTrueFrank&show_icons=true&theme=transparent)
