@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhileTrueFrank&layout=compact&theme=radical)
+
 # Olá, eu sou o Franco! Ou melhor, WhileTrueFrank... 👨‍💻🇧🇷  
 
 | 🖥️ **Técnico de Informática** | 💻 **Desenvolvedor Full-Stack**  
@@ -24,5 +26,7 @@ Atualmente, estudo **Java, Segurança da Informação, IA, Python e Git**. 🚀
 
 ## 📫 Onde me encontrar:
 [!https://www.instagram.com/franco.fnb/]
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhileTrueFrank&show_icons=true&theme=transparent)
